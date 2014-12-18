@@ -25,7 +25,7 @@ Description: face recognition and detection library - development files
 
 Package: libkface3
 Architecture: any
-Depends: libkface-data (= ${binary:Version}),
+Depends: libkface-data,
          ${misc:Depends},
          ${shlibs:Depends}
 Description: face recognition and detection library
