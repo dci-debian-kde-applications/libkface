@@ -1,0 +1,4 @@
+usr/include/libkface/*
+usr/lib/cmake/*
+usr/lib/libkface.so
+usr/lib/pkgconfig/libkface.pc
