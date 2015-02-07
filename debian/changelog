@@ -2,6 +2,7 @@ libkface (4:14.12.2-0ubuntu1) UNRELEASED; urgency=medium
 
   * New upstream release
   * Add watch file  
+  * Fix extended description length.
 
  -- Scarlett Clark <sgclark@kubuntu.org>  Fri, 06 Feb 2015 12:19:12 -0800
 

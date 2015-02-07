@@ -17,9 +17,11 @@ Section: libdevel
 Architecture: any
 Depends: libkface3 (= ${binary:Version}), ${misc:Depends}
 Description: face recognition and detection library - development files
- Libkface is a Qt/C++ library to perform face recognition and detection over pictures.
+ Libkface is a Qt/C++ library to perform face recognition
+ and detection over pictures.
  .
- This library is used by kipi-plugins, digiKam and others Kipi host programs.
+ This library is used by kipi-plugins, digiKam and
+ others Kipi host programs.
  .
  This package contains the development files.
 
@@ -29,16 +31,20 @@ Depends: libkface-data,
          ${misc:Depends},
          ${shlibs:Depends}
 Description: face recognition and detection library
- Libkface is a Qt/C++ library to perform face recognition and detection over pictures.
+ Libkface is a Qt/C++ library to perform face recognition
+ and detection over pictures.
  .
- This library is used by kipi-plugins, digiKam and others Kipi host programs.
+ This library is used by kipi-plugins, digiKam and others
+ Kipi host programs.
 
 Package: libkface-data
 Architecture: any
 Depends: ${misc:Depends}, ${shlibs:Depends}
 Description: face recognition and detection library
- Libkface is a Qt/C++ library to perform face recognition and detection over pictures.
+ Libkface is a Qt/C++ library to perform face recognition
+ and detection over pictures.
  .
- This library is used by kipi-plugins, digiKam and others Kipi host programs.
+ This library is used by kipi-plugins, digiKam and others
+ Kipi host programs.
  .
  This package contains the data files of the LibKFace library.
