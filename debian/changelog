@@ -1,11 +1,11 @@
-libkface (4:14.12.2-0ubuntu1) UNRELEASED; urgency=medium
+libkface (4:14.12.2-0ubuntu1) vivid; urgency=medium
 
   * New upstream release
   * Add watch file  
   * Fix extended description length.
   * batchpatch i386 symbols. Removed 2 missing optional. 
 
- -- Scarlett Clark <sgclark@kubuntu.org>  Fri, 06 Feb 2015 12:19:12 -0800
+ -- Scarlett Clark <sgclark@kubuntu.org>  Tue, 10 Feb 2015 09:26:05 -0800
 
 libkface (4:14.12.0-0ubuntu1) vivid; urgency=low
 
