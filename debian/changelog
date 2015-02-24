@@ -1,4 +1,4 @@
-libkface (4:14.12.2-1~) UNRELEASED; urgency=medium
+libkface (4:14.12.2-1) experimental; urgency=medium
 
   [ Scarlett Clark ]
   * Add back kdelibs parent version depend.
@@ -9,7 +9,7 @@ libkface (4:14.12.2-1~) UNRELEASED; urgency=medium
   * Prepare initial Debian release.
   * Update symbols files.
 
- -- Maximiliano Curia <maxy@debian.org>  Tue, 24 Feb 2015 15:06:08 +0100
+ -- Maximiliano Curia <maxy@debian.org>  Tue, 24 Feb 2015 16:12:46 +0100
 
 libkface (4:14.12.2-0ubuntu1) vivid; urgency=medium
 
