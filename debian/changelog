@@ -1,6 +1,6 @@
 libkface (4:14.12.2-2~) UNRELEASED; urgency=medium
 
-  * 
+  * Add Breaks/Replaces with digikam-data.
 
  -- Maximiliano Curia <maxy@debian.org>  Tue, 24 Feb 2015 18:35:46 +0100
 
