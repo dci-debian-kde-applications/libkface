@@ -1,10 +1,14 @@
-libkface (4:14.12.2-0ubuntu2) UNRELEASED; urgency=medium
+libkface (4:14.12.2-1~) UNRELEASED; urgency=medium
 
+  [ Scarlett Clark ]
   * Add back kdelibs parent version depend. 
   * Fix the maintainer field to the new 
     standard for debian git hosted apps. 
 
- -- Scarlett Clark <sgclark@kubuntu.org>  Fri, 20 Feb 2015 13:11:00 -0800
+  [ Maximiliano Curia ]
+  * Prepare initial Debian release.
+
+ -- Maximiliano Curia <maxy@debian.org>  Tue, 24 Feb 2015 15:06:08 +0100
 
 libkface (4:14.12.2-0ubuntu1) vivid; urgency=medium
 
