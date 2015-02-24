@@ -7,6 +7,7 @@ libkface (4:14.12.2-1~) UNRELEASED; urgency=medium
 
   [ Maximiliano Curia ]
   * Prepare initial Debian release.
+  * Update symbols files.
 
  -- Maximiliano Curia <maxy@debian.org>  Tue, 24 Feb 2015 15:06:08 +0100
 
