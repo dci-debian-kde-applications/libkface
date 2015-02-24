@@ -27,7 +27,7 @@ Description: face recognition and detection library - development files
 
 Package: libkface3
 Architecture: any
-Depends: libkface-data,
+Depends: libkface-data (= ${source:Version}),
          ${misc:Depends},
          ${shlibs:Depends}
 Description: face recognition and detection library
@@ -38,7 +38,7 @@ Description: face recognition and detection library
  Kipi host programs.
 
 Package: libkface-data
-Architecture: any
+Architecture: all
 Depends: ${misc:Depends}, ${shlibs:Depends}
 Description: face recognition and detection library
  Libkface is a Qt/C++ library to perform face recognition
