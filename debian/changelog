@@ -4,6 +4,7 @@ libkface (4:14.12.3-0ubuntu1) UNRELEASED; urgency=medium
   * Fix the maintainer field to the new 
     standard for debian git hosted apps. 
   * New upstream release
+  * Fix kdelibs5 version in build depends. 
 
  -- Scarlett Clark <sgclark@kubuntu.org>  Mon, 09 Mar 2015 11:24:36 -0700
 
