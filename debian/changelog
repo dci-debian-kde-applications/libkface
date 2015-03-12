@@ -5,6 +5,7 @@ libkface (4:14.12.3-0ubuntu1) UNRELEASED; urgency=medium
     standard for debian git hosted apps. 
   * New upstream release
   * Fix kdelibs5 version in build depends. 
+  * Batchpatch symbols - Removed  #MISSING: 4:14.14.3# (optional=templinst)
 
  -- Scarlett Clark <sgclark@kubuntu.org>  Mon, 09 Mar 2015 11:24:36 -0700
 
