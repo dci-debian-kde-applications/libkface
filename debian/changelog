@@ -1,4 +1,4 @@
-libkface (4:14.12.3-0ubuntu1) UNRELEASED; urgency=medium
+libkface (4:14.12.3-0ubuntu1) vivid; urgency=medium
 
   * Add back kdelibs parent version depend. 
   * Fix the maintainer field to the new 
@@ -7,7 +7,7 @@ libkface (4:14.12.3-0ubuntu1) UNRELEASED; urgency=medium
   * Fix kdelibs5 version in build depends. 
   * Batchpatch symbols - Removed  #MISSING: 4:14.14.3# (optional=templinst)
 
- -- Scarlett Clark <sgclark@kubuntu.org>  Mon, 09 Mar 2015 11:24:36 -0700
+ -- Scarlett Clark <sgclark@kubuntu.org>  Fri, 13 Mar 2015 14:23:09 -0700
 
 libkface (4:14.12.2-0ubuntu1) vivid; urgency=medium
 
