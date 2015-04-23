@@ -1,3 +1,9 @@
+libkface (4:15.04.0-1~) UNRELEASED; urgency=medium
+
+  * New upstream release (15.04.0).
+
+ -- Maximiliano Curia <maxy@debian.org>  Thu, 23 Apr 2015 16:43:26 +0200
+
 libkface (4:14.12.2-2) experimental; urgency=medium
 
   * Add Breaks/Replaces with digikam-data.
