@@ -27,9 +27,7 @@ Description: face recognition and detection library - development files
 
 Package: libkface3
 Architecture: any
-Depends: libkface-data,
-         ${misc:Depends},
-         ${shlibs:Depends}
+Depends: libkface-data, ${misc:Depends}, ${shlibs:Depends}
 Description: face recognition and detection library
  Libkface is a Qt/C++ library to perform face recognition
  and detection over pictures.
