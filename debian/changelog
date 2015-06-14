@@ -1,6 +1,10 @@
 libkface (4:14.12.2-2) experimental; urgency=medium
 
+  [ Maximiliano Curia ]
   * Add Breaks/Replaces with digikam-data.
+
+  [ Felix Geyre ]
+  * Improve the copyright file.
 
  -- Maximiliano Curia <maxy@debian.org>  Fri, 27 Mar 2015 15:24:37 +0100
 
