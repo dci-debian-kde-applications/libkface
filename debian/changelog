@@ -6,9 +6,15 @@ libkface (4:15.04.0-1~) UNRELEASED; urgency=medium
 
 libkface (4:14.12.2-2) experimental; urgency=medium
 
+  * Team upload.
+
+  [ Maximiliano Curia ]
   * Add Breaks/Replaces with digikam-data.
 
- -- Maximiliano Curia <maxy@debian.org>  Fri, 27 Mar 2015 15:24:37 +0100
+  [ Felix Geyre ]
+  * Improve the copyright file.
+
+ -- Felix Geyer <fgeyer@debian.org>  Sun, 14 Jun 2015 15:01:53 +0200
 
 libkface (4:14.12.3-0ubuntu1) vivid; urgency=medium
 
