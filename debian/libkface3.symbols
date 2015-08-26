@@ -1,4 +1,4 @@
-# SymbolsHelper-Confirmed: 4:15.07.90 amd64 i386
+# SymbolsHelper-Confirmed: 4:15.08.0 amd64 i386
 libkface.so.3 libkface3 #MINVER#
  _ZN10KFaceIface12FaceDetector11detectFacesERK6QImageRK5QSize@Base 4:14.12.0
  _ZN10KFaceIface12FaceDetector12setParameterERK7QStringRK8QVariant@Base 4:14.12.0
@@ -113,7 +113,8 @@ libkface.so.3 libkface3 #MINVER#
  (optional=templinst)_ZNSt8_Rb_treeIiSt4pairIKiSt6vectorIiSaIiEEESt10_Select1stIS5_ESt4lessIiESaIS5_EE24_M_get_insert_unique_posERS1_@Base 4:14.12.0
  (optional=templinst|arch=amd64)_ZNSt8_Rb_treeIiSt4pairIKiSt6vectorIiSaIiEEESt10_Select1stIS5_ESt4lessIiESaIS5_EE29_M_get_insert_hint_unique_posESt23_Rb_tree_const_iteratorIS5_ERS1_@Base 4:14.14.3
  (optional=templinst)_ZNSt8_Rb_treeIiSt4pairIKiSt6vectorIiSaIiEEESt10_Select1stIS5_ESt4lessIiESaIS5_EE8_M_eraseEPSt13_Rb_tree_nodeIS5_E@Base 4:14.12.0
- (optional=templinst)_ZNSt8_Rb_treeIiSt4pairIKiiESt10_Select1stIS2_ESt4lessIiESaIS2_EE24_M_get_insert_unique_posERS1_@Base 4:14.12.0 (optional=templinst|arch=amd64)_ZNSt8_Rb_treeIiSt4pairIKiiESt10_Select1stIS2_ESt4lessIiESaIS2_EE29_M_get_insert_hint_unique_posESt23_Rb_tree_const_iteratorIS2_ERS1_@Base 4:14.14.3
+ (optional=templinst)_ZNSt8_Rb_treeIiSt4pairIKiiESt10_Select1stIS2_ESt4lessIiESaIS2_EE24_M_get_insert_unique_posERS1_@Base 4:14.12.0
+ (optional=templinst|arch=amd64)_ZNSt8_Rb_treeIiSt4pairIKiiESt10_Select1stIS2_ESt4lessIiESaIS2_EE29_M_get_insert_hint_unique_posESt23_Rb_tree_const_iteratorIS2_ERS1_@Base 4:15.08.0
  (optional=templinst)_ZNSt8_Rb_treeIiSt4pairIKiiESt10_Select1stIS2_ESt4lessIiESaIS2_EE8_M_eraseEPSt13_Rb_tree_nodeIS2_E@Base 4:14.12.0
  _ZTIN10KFaceIface17ImageListProviderE@Base 4:14.12.0
  _ZTIN10KFaceIface20TrainingDataProviderE@Base 4:14.12.0
