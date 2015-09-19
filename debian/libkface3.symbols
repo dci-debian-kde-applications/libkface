@@ -1,4 +1,4 @@
-# SymbolsHelper-Confirmed: 4:14.12.3 amd64 i386
+# SymbolsHelper-Confirmed: 4:15.04.0 amd64
 libkface.so.3 libkface3 #MINVER#
  _ZN10KFaceIface12FaceDetector11detectFacesERK6QImageRK5QSize@Base 4:14.12.0
  _ZN10KFaceIface12FaceDetector12setParameterERK7QStringRK8QVariant@Base 4:14.12.0
@@ -58,9 +58,9 @@ libkface.so.3 libkface3 #MINVER#
  _ZN10KFaceIface20TrainingDataProviderD2Ev@Base 4:14.12.0
  _ZN10KFaceIface22EmptyImageListProvider5imageEv@Base 4:14.12.0
  _ZN10KFaceIface22EmptyImageListProvider7proceedEi@Base 4:14.12.0
- _ZN10KFaceIface22EmptyImageListProviderD0Ev@Base 4:14.12.0
- _ZN10KFaceIface22EmptyImageListProviderD1Ev@Base 4:14.12.0
- _ZN10KFaceIface22EmptyImageListProviderD2Ev@Base 4:14.12.0
+ (optional=gccinternal|arch=!amd64)_ZN10KFaceIface22EmptyImageListProviderD0Ev@Base 4:14.12.0
+ (optional=gccinternal|arch=!amd64)_ZN10KFaceIface22EmptyImageListProviderD1Ev@Base 4:14.12.0
+ (optional=gccinternal|arch=!amd64)_ZN10KFaceIface22EmptyImageListProviderD2Ev@Base 4:14.12.0
  _ZN10KFaceIface22QListImageListProvider5imageEv@Base 4:14.12.0
  _ZN10KFaceIface22QListImageListProvider5resetEv@Base 4:14.12.0
  _ZN10KFaceIface22QListImageListProvider7proceedEi@Base 4:14.12.0
@@ -68,9 +68,9 @@ libkface.so.3 libkface3 #MINVER#
  _ZN10KFaceIface22QListImageListProviderC1Ev@Base 4:14.12.0
  _ZN10KFaceIface22QListImageListProviderC2ERK5QListI6QImageE@Base 4:14.12.0
  _ZN10KFaceIface22QListImageListProviderC2Ev@Base 4:14.12.0
- _ZN10KFaceIface22QListImageListProviderD0Ev@Base 4:14.12.0
- _ZN10KFaceIface22QListImageListProviderD1Ev@Base 4:14.12.0
- _ZN10KFaceIface22QListImageListProviderD2Ev@Base 4:14.12.0
+ (optional=gccinternal|arch=!amd64)_ZN10KFaceIface22QListImageListProviderD0Ev@Base 4:14.12.0
+ (optional=gccinternal|arch=!amd64)_ZN10KFaceIface22QListImageListProviderD1Ev@Base 4:14.12.0
+ (optional=gccinternal|arch=!amd64)_ZN10KFaceIface22QListImageListProviderD2Ev@Base 4:14.12.0
  _ZN10KFaceIface7versionEv@Base 4:14.12.0
  _ZN10KFaceIface8Identity12setAttributeERK7QStringS3_@Base 4:14.12.0
  _ZN10KFaceIface8Identity16setAttributesMapERK4QMapI7QStringS2_E@Base 4:14.12.0
@@ -116,7 +116,7 @@ libkface.so.3 libkface3 #MINVER#
  (optional=templinst)_ZNSt6vectorIfSaIfEEaSERKS1_@Base 4:14.12.0
  (optional=templinst)_ZNSt6vectorIiSaIiEE13_M_insert_auxEN9__gnu_cxx17__normal_iteratorIPiS1_EERKi@Base 4:14.12.0
  (optional=templinst)_ZNSt8_Rb_treeIdSt4pairIKdiESt10_Select1stIS2_ESt4lessIdESaIS2_EE8_M_eraseEPSt13_Rb_tree_nodeIS2_E@Base 4:14.12.0
- (optional=templinst)_ZNSt8_Rb_treeIiSt4pairIKiSt6vectorIiSaIiEEESt10_Select1stIS5_ESt4lessIiESaIS5_EE17_M_insert_unique_ESt23_Rb_tree_const_iteratorIS5_ERKS5_@Base 4:14.12.0
+ (optional=templinst|arch=!amd64)_ZNSt8_Rb_treeIiSt4pairIKiSt6vectorIiSaIiEEESt10_Select1stIS5_ESt4lessIiESaIS5_EE17_M_insert_unique_ESt23_Rb_tree_const_iteratorIS5_ERKS5_@Base 4:14.12.0
  (optional=templinst)_ZNSt8_Rb_treeIiSt4pairIKiSt6vectorIiSaIiEEESt10_Select1stIS5_ESt4lessIiESaIS5_EE24_M_get_insert_unique_posERS1_@Base 4:14.12.0
  (optional=templinst|arch=amd64)_ZNSt8_Rb_treeIiSt4pairIKiSt6vectorIiSaIiEEESt10_Select1stIS5_ESt4lessIiESaIS5_EE29_M_get_insert_hint_unique_posESt23_Rb_tree_const_iteratorIS5_ERS1_@Base 4:14.12.2
  (optional=templinst)_ZNSt8_Rb_treeIiSt4pairIKiSt6vectorIiSaIiEEESt10_Select1stIS5_ESt4lessIiESaIS5_EE8_M_eraseEPSt13_Rb_tree_nodeIS5_E@Base 4:14.12.0

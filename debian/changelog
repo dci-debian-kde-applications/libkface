@@ -2,6 +2,7 @@ libkface (4:15.04.0-1~) UNRELEASED; urgency=medium
 
   [ Maximiliano Curia ]
   * New upstream release (15.04.0).
+  * Update symbols files.
 
   [ Felix Geyer ]
   * Further improve the copyright file, thanks to Scott Kitterman.
