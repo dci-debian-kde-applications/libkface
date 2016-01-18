@@ -1,5 +1,5 @@
 # SymbolsHelper-Confirmed: 4:15.04.0 amd64
-libkface.so.3 libkface3 #MINVER#
+libKF5KFace.so.10.0.0 libkf5kface10.0.0 #MINVER#
  _ZN10KFaceIface12FaceDetector11detectFacesERK6QImageRK5QSize@Base 4:14.12.0
  _ZN10KFaceIface12FaceDetector12setParameterERK7QStringRK8QVariant@Base 4:14.12.0
  _ZN10KFaceIface12FaceDetector13setParametersERK4QMapI7QString8QVariantE@Base 4:14.12.0
