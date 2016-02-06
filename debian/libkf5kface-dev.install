@@ -1,0 +1,4 @@
+usr/include/KF5/KFace/
+usr/include/KF5/libkface_version.h
+usr/lib/*/cmake/KF5KFace/
+usr/lib/*/libKF5KFace.so

@@ -1,3 +1,15 @@
+libkf5kface (15.12.1-0ubuntu1) UNRELEASED; urgency=medium
+
+  * New upsteam release
+
+ -- Clive Johnston <clivejo@aol.com>  Sat, 06 Feb 2016 00:36:01 +0000
+
+libkf5kface (15.12.0-1) experimental; urgency=medium
+
+  * New upstream release (15.12.0).
+
+ -- Maximiliano Curia <maxy@debian.org>  Mon, 01 Feb 2016 10:24:14 +0100
+
 libkface (4:15.12.0-0ubuntu1) UNRELEASED; urgency=medium
 
   * New upstream release
@@ -40,23 +52,59 @@ libkface (4:15.04.2-0ubuntu1) wily; urgency=medium
 
  -- Jonathan Riddell <jriddell@ubuntu.com>  Tue, 09 Jun 2015 19:45:29 +0200
 
+libkface (4:15.04.0-1) experimental; urgency=medium
+
+  [ Maximiliano Curia ]
+  * New upstream release (15.04.0).
+  * Update symbols files.
+
+  [ Felix Geyer ]
+  * Further improve the copyright file, thanks to Scott Kitterman.
+
+ -- Maximiliano Curia <maxy@debian.org>  Sat, 19 Sep 2015 19:13:47 +0200
+
+libkface (4:14.12.2-2) experimental; urgency=medium
+
+  * Team upload.
+
+  [ Maximiliano Curia ]
+  * Add Breaks/Replaces with digikam-data.
+
+  [ Felix Geyre ]
+  * Improve the copyright file.
+
+ -- Felix Geyer <fgeyer@debian.org>  Sun, 14 Jun 2015 15:01:53 +0200
+
 libkface (4:14.12.3-0ubuntu1) vivid; urgency=medium
 
-  * Add back kdelibs parent version depend. 
-  * Fix the maintainer field to the new 
-    standard for debian git hosted apps. 
+  * Add back kdelibs parent version depend.
+  * Fix the maintainer field to the new
+    standard for debian git hosted apps.
   * New upstream release
-  * Fix kdelibs5 version in build depends. 
+  * Fix kdelibs5 version in build depends.
   * Batchpatch symbols - Removed  #MISSING: 4:14.14.3# (optional=templinst)
 
  -- Scarlett Clark <sgclark@kubuntu.org>  Fri, 13 Mar 2015 14:23:09 -0700
 
+libkface (4:14.12.2-1) experimental; urgency=medium
+
+  [ Scarlett Clark ]
+  * Add back kdelibs parent version depend.
+  * Fix the maintainer field to the new
+    standard for debian git hosted apps.
+
+  [ Maximiliano Curia ]
+  * Prepare initial Debian release.
+  * Update symbols files.
+
+ -- Maximiliano Curia <maxy@debian.org>  Tue, 24 Feb 2015 16:12:46 +0100
+
 libkface (4:14.12.2-0ubuntu1) vivid; urgency=medium
 
   * New upstream release
-  * Add watch file  
+  * Add watch file
   * Fix extended description length.
-  * batchpatch i386 symbols. Removed 2 missing optional. 
+  * batchpatch i386 symbols. Removed 2 missing optional.
 
  -- Scarlett Clark <sgclark@kubuntu.org>  Tue, 10 Feb 2015 09:26:05 -0800
 
