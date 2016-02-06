@@ -1,6 +1,7 @@
 libkf5kface (15.12.1-0ubuntu1) UNRELEASED; urgency=medium
 
   * New upsteam release
+  * Merging with debian
 
  -- Clive Johnston <clivejo@aol.com>  Sat, 06 Feb 2016 00:36:01 +0000
 
@@ -9,12 +10,6 @@ libkf5kface (15.12.0-1) experimental; urgency=medium
   * New upstream release (15.12.0).
 
  -- Maximiliano Curia <maxy@debian.org>  Mon, 01 Feb 2016 10:24:14 +0100
-
-libkface (4:15.12.0-0ubuntu1) UNRELEASED; urgency=medium
-
-  * New upstream release
-
- -- Clive Johnston <clivejo@aol.com>  Sat, 02 Jan 2016 14:33:12 +0000
 
 libkface (4:15.08.2-0ubuntu1) wily; urgency=medium
 
