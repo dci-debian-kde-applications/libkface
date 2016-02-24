@@ -2,6 +2,7 @@ libkf5kface (15.12.1-0ubuntu1) UNRELEASED; urgency=medium
 
   * New upsteam release
   * Merging with debian
+  * Refreshing symbols
 
  -- Clive Johnston <clivejo@aol.com>  Sat, 06 Feb 2016 00:36:01 +0000
 
