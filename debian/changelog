@@ -1,3 +1,12 @@
+libkf5kface (15.12.0-2~1.gbpadb094) UNRELEASED; urgency=medium
+
+  ** SNAPSHOT build @adb094cdd813e0ae3b7d7976026c53e184e4a550 **
+
+  * Bump Standards-Version to 3.9.8
+  * Update symbols files with the logs from the buildds
+
+ -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Thu, 14 Apr 2016 14:30:04 +0200
+
 libkf5kface (15.12.0-1) experimental; urgency=medium
 
   * New upstream release (15.12.0).
