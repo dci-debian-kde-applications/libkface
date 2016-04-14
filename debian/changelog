@@ -1,10 +1,10 @@
-libkf5kface (15.12.3-0ubuntu1) UNRELEASED; urgency=medium
+libkf5kface (15.12.3-0ubuntu1) xenial; urgency=medium
 
   * New upstream bugfix release
   * Give intel license a shortname 
   * New upstream bugfix release
 
- -- Scarlett Clark <sgclark@kubuntu.org>  Wed, 16 Mar 2016 20:38:53 -0700
+ -- Scarlett Clark <sgclark@kubuntu.org>  Thu, 14 Apr 2016 16:19:29 -0700
 
 libkf5kface (15.12.1-0ubuntu1) xenial; urgency=medium
 
