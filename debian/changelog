@@ -1,11 +1,12 @@
-libkf5kface (15.12.0-2~1.gbpadb094) UNRELEASED; urgency=medium
+libkf5kface (15.12.0-2~2.gbp3e3516) UNRELEASED; urgency=medium
 
-  ** SNAPSHOT build @adb094cdd813e0ae3b7d7976026c53e184e4a550 **
+  ** SNAPSHOT build @3e35168e19d86e7a1f17a7624bfee83415f6220c **
 
   * Bump Standards-Version to 3.9.8
   * Update symbols files with the logs from the buildds
+  * UNRELEASED
 
- -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Thu, 14 Apr 2016 14:30:04 +0200
+ -- Automatic packaging <jenkins@amadeus.gnuservers.com.ar>  Sat, 30 Apr 2016 20:03:47 +0200
 
 libkf5kface (15.12.0-1) experimental; urgency=medium
 
