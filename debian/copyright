@@ -67,7 +67,7 @@ License: BSD-3-clause
 Files: data/haarcascade_frontalface_*.xml
        data/haarcascade_profileface.xml
 Copyright: 2000 Intel Corporation
-License: Intel License Agreement For Open Source Computer Vision Library
+License: Intel-License-Agreement-For-Open-Source-Computer-Vision-Library
  Redistribution and use in source and binary forms, with or without modification,
  are permitted provided that the following conditions are met:
  .
