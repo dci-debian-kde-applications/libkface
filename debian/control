@@ -9,7 +9,7 @@ Build-Depends: cmake (>= 2.8.12~),
                libopencv-dev,
                pkg-kde-tools,
                qtbase5-dev (>= 5.2.0~)
-Standards-Version: 3.9.8
+Standards-Version: 4.1.0
 Homepage: https://projects.kde.org/projects/kde/kdegraphics/libs/libkface
 Vcs-Browser: https://anonscm.debian.org/git/pkg-kde/applications/libkface.git
 Vcs-Git: https://anonscm.debian.org/git/pkg-kde/applications/libkface.git
