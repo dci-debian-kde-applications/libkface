@@ -8,11 +8,23 @@ Build-Depends: cmake (>= 2.8.12~),
                extra-cmake-modules (>= 1.1.0~),
                libopencv-dev,
                pkg-kde-tools,
-               qtbase5-dev (>= 5.2.0~)
+               qtbase5-dev (>= 5.2.0~),
 Standards-Version: 4.1.0
 Homepage: https://projects.kde.org/projects/kde/kdegraphics/libs/libkface
 Vcs-Browser: https://anonscm.debian.org/git/pkg-kde/applications/libkface.git
 Vcs-Git: https://anonscm.debian.org/git/pkg-kde/applications/libkface.git
+
+Package: libkf5kface-data
+Architecture: all
+Depends: ${misc:Depends}
+Description: face recognition and detection library
+ Libkface is a Qt/C++ library to perform face recognition
+ and detection over pictures.
+ .
+ This library is used by kipi-plugins, digiKam and others
+ Kipi host programs.
+ .
+ This package contains the data files of the LibKFace library.
 
 Package: libkf5kface-dev
 Section: libdevel
@@ -31,22 +43,10 @@ Package: libkf5kface10.0.0
 Architecture: any
 Depends: libkf5kface-data (= ${source:Version}),
          ${misc:Depends},
-         ${shlibs:Depends}
+         ${shlibs:Depends},
 Description: face recognition and detection library
  Libkface is a Qt/C++ library to perform face recognition
  and detection over pictures.
  .
  This library is used by kipi-plugins, digiKam and others
  Kipi host programs.
-
-Package: libkf5kface-data
-Architecture: all
-Depends: ${misc:Depends}
-Description: face recognition and detection library
- Libkface is a Qt/C++ library to perform face recognition
- and detection over pictures.
- .
- This library is used by kipi-plugins, digiKam and others
- Kipi host programs.
- .
- This package contains the data files of the LibKFace library.
