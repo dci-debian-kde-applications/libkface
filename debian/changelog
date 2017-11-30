@@ -5,6 +5,7 @@ libkf5kface (17.08.3-0r1) UNRELEASED; urgency=medium
   * Build with OpenCV >= 3: (Closes: #841411)
     - pass -DENABLE_OPENCV3=ON to cmake
     - bump the libopencv-dev build dependency to >= 3.0
+  * Bump Standards-Version to 4.1.1, no changes required.
 
  -- Debian/Kubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Thu, 30 Nov 2017 22:33:20 +0100
 
