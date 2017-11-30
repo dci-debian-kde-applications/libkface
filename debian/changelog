@@ -2,6 +2,9 @@ libkf5kface (17.08.3-0r1) UNRELEASED; urgency=medium
 
   [ Pino Toscano ]
   * New upstream release.
+  * Build with OpenCV >= 3: (Closes: #841411)
+    - pass -DENABLE_OPENCV3=ON to cmake
+    - bump the libopencv-dev build dependency to >= 3.0
 
  -- Debian/Kubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Thu, 30 Nov 2017 22:33:20 +0100
 
