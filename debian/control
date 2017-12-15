@@ -7,7 +7,6 @@ Build-Depends: cmake (>= 2.8.12~),
                debhelper (>= 9),
                extra-cmake-modules (>= 1.1.0~),
                libopencv-dev,
-               libopencv-legacy-dev,
                pkg-kde-tools,
                qtbase5-dev (>= 5.2.0~)
 Standards-Version: 3.9.8
